@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi MirMohammadi</h1>
 <h3 align="center">A passionate frontend developer from Earth :D</h3>
 
-- 🌱 I’m currently learning **Javascript & Typescript**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Front-End Developing**
 
